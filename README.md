@@ -8,6 +8,7 @@
   - Excel  
   - C Programming  
   - Algorithms  
+  - HTML & CSS  
   - Data Entry & Management  
 - 👯 I’m looking to collaborate on **any interesting project**  
 - ⚡ Fun fact: *I believe every dataset tells a story — I’m learning to uncover it!*  
@@ -15,7 +16,7 @@
 ---
 
 🛠 **Languages and Tools:**  
-[![My Skills](https://skillicons.dev/icons?i=python,excel,c,git,github&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,excel,c,html,css,git,github&perline=6)](https://skillicons.dev)
 
 ---
 
@@ -28,5 +29,3 @@
 ---
 
 ✨ *Thanks for visiting my profile!*  
-# hello-world-rj
-This repository is for practicing the GitHub Flow
